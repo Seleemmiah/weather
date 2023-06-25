@@ -1,1 +1,1 @@
-A weather update app is an app that enables users to search for weather information for cities and returns the necessary weather information for those cities. If you want to build a weather update app using Django.
+A weather update app is an app that enables users to search for weather information for cities and returns the necessary weather information for those cities. If you want to build a weather update app using Django then here is a code on how to build one.
